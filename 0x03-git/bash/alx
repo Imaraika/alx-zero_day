@@ -1,2 +1,2 @@
-#!/bin/bash a
-ALX
+#!/bin/bash
+echo "ALX School is so cool!"
